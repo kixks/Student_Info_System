@@ -8,5 +8,6 @@ Public Class frmMain
 
     Private Sub ToolStripButton1_Click_1(sender As Object, e As EventArgs) Handles ToolStripButton1.Click
         frmDisplayStudent.ShowDialog()
+        'Testing Changes
     End Sub
 End Class
