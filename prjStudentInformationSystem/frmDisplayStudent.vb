@@ -241,4 +241,7 @@ Public Class frmDisplayStudent
         End With
     End Sub
 
+    Private Sub btnPrint_Click(sender As Object, e As EventArgs) Handles btnPrint.Click
+        'CHANGE HERE PRINTING
+    End Sub
 End Class
